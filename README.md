@@ -3,7 +3,7 @@ revip is a simple GO tool for reverse IP domain checker (scrap from rapiddns.io)
 
 Created By viloid (github.com/vsec7)
 
-<p align="center"> <a href="https://goreportcard.com/report/github.com/vsec7/revip"> </p>
+<p align="center"> <a href="https://goreportcard.com/report/github.com/vsec7/revip"></a> </p>
 
 <img src="https://i.ibb.co/jTsSYwF/revip.jpg">
 
